@@ -7,3 +7,5 @@
 # Common cache files
 __pycache__/
 *.pyc
+
+Datasets/YT/
